@@ -1,14 +1,21 @@
-# KATERYNA TOPORIKOVA 
 
-Phone: *+38 063 440 45 69*<br/>
-E-mail: *zhuravskakatya@gmail.com*<br/>
-Skype: *zhuravskakatya*<br/>
+**KATERYNA TOPORIKOVA**
+*Junior QA engineer*
 
-**SUMMARY** 
+![](https://pkimgcdn.peekyou.com/b620898037b0d1bdb1657b1608d285b8.jpeg)
 
-Quickly adapted to the new environment and find common ground with people. I could absorb new information in a short time and systematize it. Character is calm, balanced, but I defend my views actively and reasoned. 
 
-**SKILLS**
+Phone: *+38 063 440 45 69*  
+E-mail: *zhuravskakatya@gmail.com*  
+Skype: *zhuravskakatya*  
+
+***
+
+>**SUMMARY** 
+
+Quickly adapted to the new environment and find common ground with people. I could absorb new information in a short time and systematize it. Character is calm, balanced, but I defend my views actively and reasoned.
+
+>**SKILLS**
 
 1. Theoretical knowledge of QA
 2. Experienced user in SQL, SQL Server 
@@ -21,7 +28,7 @@ Quickly adapted to the new environment and find common ground with people. I cou
 9. Great attention to detail and result driven approach
 10. Confident user in Google Apps and Microsoft Office 
 
-**EXPERIENCE**
+>**EXPERIENCE**
 
 *The manager of the individual service department* 
 
@@ -48,7 +55,7 @@ Kyiv – November 2015 – February 2017
 * maintaining daily documentation of the bank branch
 * working with  internet banking for private clients 
 
-**EDUCATION**
+>**EDUCATION**
 
 - 2020  IT Training Center "QA Light"
 
@@ -67,7 +74,7 @@ _Specialty: Business Economics (Banking)_
 Bachelor
 
 
-**LANGUAGES** 
+>**LANGUAGES** 
 
 _**English**_ - *Intermediate*
 
