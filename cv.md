@@ -1,6 +1,6 @@
 
-**KATERYNA TOPORIKOVA**
-*Junior QA engineer*
+**KATERYNA TOPORIKOVA**  
+*Junior QA engineer*  
 
 ![](https://pkimgcdn.peekyou.com/b620898037b0d1bdb1657b1608d285b8.jpeg)
 
