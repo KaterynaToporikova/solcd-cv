@@ -1,10 +1,8 @@
 # KATERYNA TOPORIKOVA 
 
-![profile photo](https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Resize-ip9qSKNnmgsO.jpg)
-
-Phone: *+38 063 440 45 69*
-E-mail: *zhuravskakatya@gmail.com*
-Skype: *zhuravskakatya*
+Phone: *+38 063 440 45 69*<br/>
+E-mail: *zhuravskakatya@gmail.com*<br/>
+Skype: *zhuravskakatya*<br/>
 
 **SUMMARY** 
 
